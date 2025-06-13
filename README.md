@@ -29,14 +29,14 @@ This project demonstrates how deep learning can be applied in real-world securit
 ## 🚀 Project Structure
 
 drone_detection_project/
-├── models/
-│ ├── drone_audio_model.h5
-│ └── drone_YOLO_model.pt
-├── drone_audio_detection_cnn.ipynb
-├── drone_image_detection_YOLO.ipynb
-├── app.py
-├── requirements.txt
-└── README.md
+- ├── models/
+- │ ├── drone_audio_model.h5
+- │ └── drone_YOLO_model.pt
+- ├── drone_audio_detection_cnn.ipynb
+- ├── drone_image_detection_YOLO.ipynb
+- ├── app.py
+- ├── requirements.txt
+- └── README.md
 
 ## 💻 Technologies Used
 
