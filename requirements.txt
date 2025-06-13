@@ -1,0 +1,9 @@
+tensorflow>=2.10
+ultralytics>=8.0.20
+opencv-python
+librosa
+moviepy
+soundfile
+sounddevice
+numpy
+streamlit
